@@ -26,3 +26,7 @@ This method ensures seamless data transfer from Excel to SQL Server, making it e
 Would love to hear your thoughts and feedback! Let’s connect and discuss more. 
 
 Here you can watch full video: https://lnkd.in/gFi9XtRU
+
+# Excel-File
+
+![Dashboard Screenshot](assets/dashboard.png)
