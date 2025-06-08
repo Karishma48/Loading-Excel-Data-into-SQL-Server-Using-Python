@@ -27,6 +27,22 @@ Would love to hear your thoughts and feedback! Let’s connect and discuss more.
 
 Here you can watch full video: https://lnkd.in/gFi9XtRU
 
-# Excel-File
+# Input
 
 ![Dashboard Screenshot](assets/dashboard.png)
+
+# Python-Code
+
+![Dashboard Screenshot](assets/dashboard.png1)
+
+![Dashboard Screenshot](assets/dashboard.png2)
+
+![Dashboard Screenshot](assets/dashboard.png3)
+
+![Dashboard Screenshot](assets/dashboard.png4)
+
+![Dashboard Screenshot](assets/dashboard.png5)
+
+# Output
+
+
