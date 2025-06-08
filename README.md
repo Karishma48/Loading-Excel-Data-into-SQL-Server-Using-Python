@@ -45,4 +45,5 @@ Here you can watch full video: https://lnkd.in/gFi9XtRU
 
 # Output
 
+![Dashboard Screenshot](assets/dashboard.png6)
 
